@@ -19,7 +19,7 @@ Uses https://github.com/ExpDev07/coronavirus-tracker-api
 * [Yarn](https://yarnpkg.com/en/)
 
 
-## Starting from Scratch
+## Setup
 * Set up Yarn: https://yarnpkg.com/lang/en/docs/install/#mac-stable)[https://yarnpkg.com/lang/en/docs/install/
 * Install the Gatsby CLI globally:
 ```

@@ -10,7 +10,7 @@ const Header = () => {
         <h1>Coronavirus (COVID-19)</h1>
         <ul>
           <li>
-            <a href="https://github.com/dannkkie/">
+            <a href="https://github.com/dannkkie/corona">
               <FaGithub /> Github
             </a>
           </li>
